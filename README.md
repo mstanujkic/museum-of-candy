@@ -1,6 +1,6 @@
-# museum-of-candy 🧁
+# Museum of Candy 🧁
 
-Web page created using HTML, CSS, flexbox, Bootstrap 4 and a bit of JavaScript.
+Web page created using HTML, CSS, Flexbox, Bootstrap 4 and a bit of JavaScript.
 
 The website is responsive for all screen sizes.
 
